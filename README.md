@@ -1,4 +1,4 @@
-# WhatsApp Baileys Xsat
+# WhatsApp Baileys Bagus
 
 <p align="center">
   <img src="https://files.catbox.moe/369pux.jpg" alt="Thumbnail" />
